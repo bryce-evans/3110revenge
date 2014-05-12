@@ -3,5 +3,4 @@
 
 Code Challenge in OCaml
 
-A collection of many actual questions from tests created by TAs from CS 3110 at Cornell.
-Questions were frequently extremely obfuscated.
+A collection of questions in the extremely obfuscated style of those from Cornell's CS 3110.
